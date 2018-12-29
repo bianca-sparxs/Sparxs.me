@@ -1,6 +1,6 @@
-.App {
+/* .App {
   text-align: center;
-}
+} */
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
@@ -26,6 +26,7 @@
   height: 15px;
   overflow: hidden;
 }
+
 .expanded{
   overflow: visible;
   height: auto;

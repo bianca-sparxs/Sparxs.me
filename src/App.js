@@ -1,14 +1,21 @@
 import React, { Component } from 'react';
-import BHacks from './components/BHacksPart/BHacks';
+import Routes from './components/Routes';
+
+
 
 class App extends Component {
   render() {
     return (
+      
       <div className="App">
-        <BHacks />
+        <Routes />
+  
+
       </div>
+    
     );
   }
 }
 
 export default App;
+
